@@ -63,14 +63,14 @@ Xây dựng website bán giày
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://khamko177.netlify.app/)
 
 ## 🎯 Goals for 2024
-- [ ] Đạt chứng chỉ AWS Solutions Architect
-- [ ] Đóng góp cho 5 dự án open source
-- [ ] Viết 24 bài blog về technical
-- [ ] Phát triển một thư viện React có 100 sao trên GitHub
+- [ ] ...................................
+- [ ] ...................................
+- [ ] ...................................
+- [ ] ...................................
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Microservices với Node.js: Từ A đến Z](https://devblog.vn/microservices-nodejs)
+<!-- - [Microservices với Node.js: Từ A đến Z](https://devblog.vn/microservices-nodejs)
 - [10 Tips để tối ưu hiệu suất React Application](https://devblog.vn/react-performance)
 - [Hướng dẫn sử dụng Docker trong môi trường phát triển](https://devblog.vn/docker-guide)
 <!-- BLOG-POST-LIST:END -->
