@@ -4,7 +4,6 @@
 - 🔭 I'm currently internship at Pascalia Asia Viet Nam Company
 - 🌱 I'm currently learning Vue, React, SQL, Docker, Laravel
 - 👯 I'm looking to collaborate on Open Source Projects
-- 💬 Ask me about React, Node.js, và System Design
 - 📫 How to reach me: khamko@pascaliaasia.com
 - 😄 Pronouns: He/Him
 
@@ -30,30 +29,11 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenvandev&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvandev&layout=compact&theme=radical)
-
-## 🌟 Featured Projects
-### [ShopViet - E-commerce Platform]
-Nền tảng thương mại điện tử với đầy đủ tính năng cho người bán và người mua
-- 🔗 [Live Demo](https://shopviet.vn)
-- 💻 [Source Code](https://github.com/nguyenvandev/shopviet)
-- 🛠 Built with: React, Node.js, MongoDB, Redis
-
-### [DevBlog]
-Blog chia sẻ kiến thức lập trình và công nghệ
-- 🔗 [Live Demo](https://devblog.vn)
-- 💻 [Source Code](https://github.com/nguyenvandev/devblog)
-- 🛠 Built with: Next.js, Tailwind CSS, Prisma
-
 ### [TaskFlow]
 Ứng dụng quản lý công việc theo phương pháp Kanban
-- 🔗 [Live Demo](https://taskflow.vn)
-- 💻 [Source Code](https://github.com/nguyenvandev/taskflow)
-- 🛠 Built with: React, Express.js, PostgreSQL
+- 🔗 [Live Demo](https://khamkoportfolio.000webhostapp.com/)
+- 💻 [Source Code](https://github.com/Khamko177/Laoshoes.git)
+- 🛠 Built with: PHP,SQL
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/nguyenvandev)
@@ -72,6 +52,3 @@ Blog chia sẻ kiến thức lập trình và công nghệ
 - [10 Tips để tối ưu hiệu suất React Application](https://devblog.vn/react-performance)
 - [Hướng dẫn sử dụng Docker trong môi trường phát triển](https://devblog.vn/docker-guide)
 <!-- BLOG-POST-LIST:END -->
-
----
-⭐️ From [nguyenvandev](https://github.com/nguyenvandev)
