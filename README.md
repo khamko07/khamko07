@@ -42,7 +42,7 @@ Xây dựng website bán giày
 
   Xây dựng website thời tiết
 - 🔗 [Live Demo](https://khamko07.github.io/Weather/ )
-- 💻 [Source Code](https://github.com/Khamko177/FinalJS_group.git](https://github.com/khamko07/Weather.git )
+- 💻 [Source Code](https://github.com/khamko07/Weather.git )
 - 🛠 Built with: HTML5, CSS3, JavaScript, OpenWeather API, Font Awesome icons
 
 
