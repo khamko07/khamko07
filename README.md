@@ -29,16 +29,38 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 
-### [TaskFlow]
-Ứng dụng quản lý công việc theo phương pháp Kanban
+### Project
+Xây dựng website bán giày
 - 🔗 [Live Demo](https://khamkoportfolio.000webhostapp.com/)
 - 💻 [Source Code](https://github.com/Khamko177/Laoshoes.git)
 - 🛠 Built with: PHP,SQL
+- 
+  Xây dựng website bán điện thoại
+- 🔗 [Live Demo](https://danangshop.netlify.app/)
+- 💻 [Source Code](https://github.com/Khamko177/FinalJS_group.git)
+- 🛠 Built with: HTML,CSS and JavaScript
+
+  Xây dựng website thời tiết
+- 🔗 [Live Demo](https://khamko07.github.io/Weather/ )
+- 💻 [Source Code](https://github.com/Khamko177/FinalJS_group.git](https://github.com/khamko07/Weather.git )
+- 🛠 Built with: HTML5, CSS3, JavaScript, OpenWeather API, Font Awesome icons
+
+
+  Xây dựng website từ điện tiếng Anh
+- 🔗 [Live Demo](https://khamko07.github.io/Smart_Dictionnary/)
+- 💻 [Source Code](https://github.com/khamko07/Smart_Dictionnary.git)
+- 🛠 Built with: CSS3, JavaScript, Dictionary API, Font Awesome icons
+
+
+
+
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/nguyenvandev)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/nguyenvandev)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://nguyenvandev.com)
+[![Facebook](https://www.facebook.com/khamkoxys)
+[![Email company](khamko@pascaliaasia.com)
+[![Email School](3120221520@ued.udn.vn)
+[![Peronal Email](khamgo1191@gmail.com)
+[![Portfolio](https://khamko177.netlify.app/)
 
 ## 🎯 Goals for 2024
 - [ ] Đạt chứng chỉ AWS Solutions Architect
