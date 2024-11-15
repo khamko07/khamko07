@@ -56,11 +56,11 @@ Xây dựng website bán giày
 
 
 ## 📫 Connect with Me
-[![Facebook](https://www.facebook.com/khamkoxys)
-[![Email company](khamko@pascaliaasia.com)
-[![Email School](3120221520@ued.udn.vn)
-[![Peronal Email](khamgo1191@gmail.com)
-[![Portfolio](https://khamko177.netlify.app/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/khamkoxys)
+[![Email Company](https://img.shields.io/badge/Email_Company-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khamko@pascaliaasia.com)
+[![Email School](https://img.shields.io/badge/Email_School-4285F4?style=flat&logo=gmail&logoColor=white)](mailto:3120221520@ued.udn.vn)
+[![Personal Email](https://img.shields.io/badge/Personal_Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:khamgo1191@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://khamko177.netlify.app/)
 
 ## 🎯 Goals for 2024
 - [ ] Đạt chứng chỉ AWS Solutions Architect
