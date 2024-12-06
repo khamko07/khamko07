@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 - 🔭 I'm currently internship at Pascalia Asia Viet Nam Company
-- 🌱 I'm currently learning Vue, React, SQL, Docker, Laravel
+- 🌱 I'm currently learning HTML, CSS, JavaScript, Vue, PHP, Laravel, SQL
 - 👯 I'm looking to collaborate on Open Source Projects
 - 📫 How to reach me: khamko@pascaliaasia.com
-- 😄 Pronouns: He/Him
+
 
 
 ## 🛠 Skills
