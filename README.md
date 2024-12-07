@@ -23,11 +23,13 @@ Hello, world! 🌍 I'm **Khamko**, a passionate **Web Developer** and final-year
 
 ## 📂 Projects  
 - 🌟 **HTML, CSS, JavaScript Project**  
-  - **Source Code**: [GitHub Repository](https://github.com/stars/khamko07/lists/html-css-javascript-project)  
-
-- 🛠️ **Penetration Testing Framework**  
-  - **Description**: A group project focusing on building a framework to identify vulnerabilities in web applications.  
-  - **Source Code**: [GitHub Repository](#)  
+  - **Source Code**: [GitHub Repository](https://github.com/stars/khamko07/lists/html-css-javascript-project)
+- 🌟 **VUE Project**  
+  - **Source Code**: [GitHub Repository](https://github.com/stars/khamko07/lists/vue-project)
+- 🌟 **PHP Project**  
+  - **Source Code**: [GitHub Repository](https://github.com/stars/khamko07/lists/php-project)
+- 🌟 **Laravel Project**  
+  - **Source Code**: [GitHub Repository](https://github.com/stars/khamko07/lists/laravel-project)    
 
 ---  
 
@@ -44,14 +46,12 @@ Hello, world! 🌍 I'm **Khamko**, a passionate **Web Developer** and final-year
 ---
 
 ### 🤝 Let's Connect!  
-- 🌐 **Portfolio**: [Your Portfolio Link](#)  
-- 📧 **Email**: khamko@example.com  
-- 📱 **Phone**: +856-20-XXX-XXXX (replace with your actual number)  
+- 🌐 **Portfolio**: [Your Portfolio Link](https://khamko07.github.io/portfolio/)  
+- 📧 **Email**: khamko@pascaliaasia.com
 - 📘 **Facebook**: [Your Facebook Link](#)  
 
 ---  
 
-Let me know if you need help creating a portfolio or customizing this further!
 Thank you for stopping by! 🚀  
 
 ---
