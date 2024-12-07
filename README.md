@@ -21,11 +21,15 @@ Hello, world! 🌍 I'm **Khamko**, a passionate **Web Developer** and final-year
 
 ---
 
-## 📂 Current Projects  
-- 🌟 Developing a **Tourism Management System** with modules for **Admin**, **Users**, and **Guests**.  
-- 🛠️ Contributing to group research on **Penetration Testing Framework** for the **Information Security** course.  
+## 📂 Projects  
+- 🌟 **HTML, CSS, JavaScript Project**  
+  - **Source Code**: [GitHub Repository](https://github.com/stars/khamko07/lists/html-css-javascript-project)  
 
----
+- 🛠️ **Penetration Testing Framework**  
+  - **Description**: A group project focusing on building a framework to identify vulnerabilities in web applications.  
+  - **Source Code**: [GitHub Repository](#)  
+
+---  
 
 ## 📖 Learning Goals  
 - Master advanced features in **Laravel** and **Vue.js**.  
@@ -40,12 +44,15 @@ Hello, world! 🌍 I'm **Khamko**, a passionate **Web Developer** and final-year
 ---
 
 ### 🤝 Let's Connect!  
-- 💼 [LinkedIn](#)  
-- 📧 Email: khamko@example.com  
-- 🌐 [Portfolio](#)  
+- 🌐 **Portfolio**: [Your Portfolio Link](#)  
+- 📧 **Email**: khamko@example.com  
+- 📱 **Phone**: +856-20-XXX-XXXX (replace with your actual number)  
+- 📘 **Facebook**: [Your Facebook Link](#)  
 
+---  
+
+Let me know if you need help creating a portfolio or customizing this further!
 Thank you for stopping by! 🚀  
 
 ---
 
-Let me know if you'd like to customize this further or add links!
