@@ -46,9 +46,9 @@ Hello, world! 🌍 I'm **Khamko**, a passionate **Web Developer** and final-year
 ---
 
 ### 🤝 Let's Connect!  
-- 🌐 **Portfolio**: [Your Portfolio Link](https://khamko07.github.io/portfolio/)  
+- 🌐 **Portfolio**: [Let's go!](https://khamko07.github.io/portfolio/)  
 - 📧 **Email**: khamko@pascaliaasia.com
-- 📘 **Facebook**: [Your Facebook Link](#)  
+- 📘 **Facebook**: [Khamko Xys ](https://www.facebook.com/khamkoxys)  
 
 ---  
 
