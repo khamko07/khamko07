@@ -17,7 +17,7 @@ Hello, world! 🌍 I'm **Khamko**, a passionate **Web Developer** and final-year
 - **Backend**: PHP, Laravel  
 - **Database**: MySQL, SQL  
 - **Version Control**: Git  
-- **Other Tools**: Docker, Linux, API Development  
+- **Other Tools**: Docker 
 
 ---
 
